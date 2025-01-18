@@ -70,7 +70,9 @@ export default function Contact() {
           >
             Send Message
           </button>
+
           <Toaster richColors />
+          <p>{result}</p>
         </div>
       </form>
     </div>
