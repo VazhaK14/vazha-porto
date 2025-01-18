@@ -10,7 +10,7 @@ import motionIcon from "../assets/framer-motion.svg";
 
 export default function SeparatedSkills() {
   return (
-    <div className="py-6  min-[12px]:hidden text-center space-y-14 flex flex-col items-center">
+    <div className="py-6  min-[1280px]:hidden text-center space-y-14 flex flex-col items-center">
       <h1 className="border-2 shadow-bold dark:bg-slate-800 dark:text-white font-public dark:border-white dark:shadow-bolder border-black w-max  align-text-bottom font-bold text-5xl py-5 px-3 bg-[#fdf6e4] rounded-md ">
         Skills
       </h1>

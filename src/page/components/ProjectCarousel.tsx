@@ -87,8 +87,8 @@ export default function ProjectCarousel() {
       showRepo: true,
       webIcon: true,
       appIcon: false,
-      repoLink: "https://www.google.com/",
-      liveLink: "https://www.google.com/",
+      repoLink: "https://github.com/VazhaK14/vazha-porto",
+      liveLink: "https://vazha-porto.vercel.app/",
     },
     {
       image: ToDoListProject,
